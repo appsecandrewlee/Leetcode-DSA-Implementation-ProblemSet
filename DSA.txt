@@ -1,0 +1,111 @@
+Sorting Algorithms:
+
+Comparison-Based Sorting:
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Non-Comparison-Based Sorting:
+Counting Sort
+Radix Sort
+Bucket Sort
+Searching Algorithms:
+
+Linear Search
+Binary Search
+Interpolation Search
+Exponential Search
+Fibonacci Search
+Recursion:
+
+Basic Recursion
+Tail Recursion
+Mutual Recursion
+Tree Recursion
+Data Structures:
+
+Arrays:
+
+Array Operations
+Dynamic Arrays
+Multi-dimensional Arrays
+Stacks:
+Stack Operations
+Implementations using Arrays and Linked Lists
+Applications of Stacks
+Sorting Algorithms (continued):
+
+Queue:
+
+Queue Operations
+Implementations using Arrays and Linked Lists
+Circular Queue
+Linked List:
+Singly Linked List
+Doubly Linked List
+Circular Linked List
+Advanced Algorithms:
+
+Dynamic Programming:
+
+
+Longest Common Subsequence
+Knapsack Problem
+Matrix Chain Multiplication
+Greedy Algorithms:
+Prim's Algorithm
+Kruskal's Algorithm
+Dijkstra's Algorithm
+Divide and Conquer:
+Merge Sort
+Quick Sort
+Strassen's Matrix Multiplication
+Complexity Analysis:
+Big O Notation
+Time Complexity
+Space Complexity
+Graph Algorithms:
+
+Shortest Path Algorithms:
+
+Dijkstra's Algorithm
+Bellman-Ford Algorithm
+Floyd-Warshall Algorithm
+Minimum Spanning Tree Algorithms:
+Prim's Algorithm
+Kruskal's Algorithm
+Network Flow Algorithms:
+Ford-Fulkerson Algorithm
+Edmonds-Karp Algorithm
+Dinic's Algorithm
+String Algorithms:
+
+String Matching Algorithms:
+
+Knuth-Morris-Pratt Algorithm
+Rabin-Karp Algorithm
+Boyer-Moore Algorithm
+ Suffix Tree and Array Algorithms:
+Suffix Tree Construction
+Longest Common Substring
+Longest Palindromic Substring
+Advanced Topics:
+
+Randomized Algorithms:
+
+Randomized Quicksort
+Las Vegas Algorithms
+Monte Carlo Algorithms
+
+
+Approximation Algorithms:
+
+Set Cover
+Vertex Cover
+Traveling Salesman Problem
+Online Algorithms:
+Paging Algorithms
+Competitive Analysis
+Online Convex Optimization
